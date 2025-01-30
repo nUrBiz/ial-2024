@@ -21,4 +21,4 @@ IMG picture 1
 - MySQL (relational database)
 - PHP (server scripting language)
 - AWS (cloud platform, service used: EC2, S3, VPC, IAM)
-+ fail2ban (Intrusion Prevention Software)
+- EXTRA: fail2ban (Intrusion Prevention Software)
