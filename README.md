@@ -1,9 +1,9 @@
 # Deployment in a hybrid infrastructure of a developed website with automatic disaster & recovery backup automation
 
-Operazione Rif. PA 2023-20334/RER - atto n.DGR 133/2024 del 29/01/2024 della Regione Emilia-Romagna
+_Operazione Rif. PA 2023-20334/RER - atto n.DGR 133/2024 del 29/01/2024 della Regione Emilia-Romagna_
 
 *********************************************************************************************************************************************************
-# resource:
+### **Resource**:
 - Sito_test (developed web site, given for the project work)
 - Linux (operating system)
 - Filezilla (FTP)
@@ -11,12 +11,15 @@ Operazione Rif. PA 2023-20334/RER - atto n.DGR 133/2024 del 29/01/2024 della Reg
 - MySQL (relational database)
 - PHP (server scripting language)
 - AWS (cloud platform, service used: EC2, S3, VPC, IAM)
-- EXTRA: fail2ban (Intrusion Prevention Software)
+- EXTRA: net-tools, fail2ban (Intrusion Prevention Software)
 
+### **Section**
+[**0.Architecture construction**](resource/0.Architecture-construction.md)  
+[**1.Backup&DR**](resource/1.Backup&DR.md)  
+[**2.Security**](resource/2.Security.md)  
 *********************************************************************************************************************************************************
-<!---
-[Picture2]
-[Picture1]
---->
-<img src="https://github.com/user-attachments/assets/1368d729-6c9e-4ba9-a95e-1ab40eeefdf1" width=50% height=50%>
-<img src="https://github.com/user-attachments/assets/3fdd81ec-04da-424a-8b4e-7765699fd1f8" width=50% height=50%>
+
+# [**start**](resource/0.Architecture-construction.md)  
+
+># [!CAUTION]
+># <sub><ins>_Roses are red, my screen is blue, i think i deleted system32_ <ins></sub>
