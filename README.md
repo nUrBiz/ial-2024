@@ -1,4 +1,4 @@
-# Deployment in a hybrid infrastructure of a developed website with automatic disaster & recovery backup automation with ethical red&blue teaming
+# Deployment in a hybrid infrastructure of a developed website, automatic disaster & recovery backup automation with ethical red&blue teaming
 
 _Operazione Rif. PA 2023-20334/RER - atto n.DGR 133/2024 del 29/01/2024 della Regione Emilia-Romagna_
 
