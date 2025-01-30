@@ -5,11 +5,11 @@
 Operazione Rif. PA 2023-20334/RER - atto n.DGR 133/2024 del 29/01/2024 della Regione Emilia-Romagna
 
 *********************************************************************************************************************************************************
-
-IMG picture 2
-
-IMG picture 1
-
+{::comment}
+[Picture2]
+[Picture1]
+{:/comment}
+<img src="https://github.com/user-attachments/assets/1368d729-6c9e-4ba9-a95e-1ab40eeefdf1" width=50% height=50%> <img src="https://github.com/user-attachments/assets/3fdd81ec-04da-424a-8b4e-7765699fd1f8" width=50% height=50%>
 *********************************************************************************************************************************************************
 
 
