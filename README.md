@@ -18,6 +18,4 @@ _Operazione Rif. PA 2023-20334/RER - atto n.DGR 133/2024 del 29/01/2024 della Re
 [**1.Backup&DR**](resource/1.Backup&DR.md)  
 [**2.Security**](resource/2.Security.md)  
 ********************************************************************************************************************************************************
-
-># [!CAUTION]
 ># <sub><ins>_Roses are red, my screen is blue, i think i deleted system32_ <ins></sub>
