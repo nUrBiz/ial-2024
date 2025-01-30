@@ -3,8 +3,6 @@
 ![TESTING-ATCK](https://github.com/user-attachments/assets/44e18c6c-f705-4c3e-8eb2-87797721c3f6)
 ![site-cassiopea](https://github.com/user-attachments/assets/65fbe435-9281-4a2d-92b8-d56cf23d0a83)
 ![security_group](https://github.com/user-attachments/assets/be6692de-0a75-4129-bf4f-997c7f60d74c)
-![Picture2](https://github.com/user-attachments/assets/7b0f02cd-acf6-447c-aff2-0f471cb39bb7)
-![Picture1](https://github.com/user-attachments/assets/cf895cbf-df60-412a-8991-bfd11fd4955d)
 ![mariaDB-service](https://github.com/user-attachments/assets/6c210956-15ed-4061-99a7-1c71418aa6af)
 ![localhost](https://github.com/user-attachments/assets/17071b5c-57a4-4a16-bdac-6ed3d909488a)
 ![ip_priv_VM](https://github.com/user-attachments/assets/4d0d5de5-31ad-4d43-8188-7512a78ccd5b)
